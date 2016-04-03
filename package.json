@@ -1,5 +1,5 @@
 {
-  "name": "routr",
+  "name": "routr-irae",
   "version": "1.0.0",
   "description": "A router for both server and client",
   "main": "index.js",
